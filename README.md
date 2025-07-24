@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m have studied at the faculty of Engineering, Department of Computer and Control Systems, Tanta University.
 - 😄 Languages: English, Arabic (native)
 - 🧑🏻‍💻 Skills:
-        Back-End (NodeJS - NestJS - ExpressJS - MongoDB - MS Sql - ORM Sequelize - Mongoose - Socket.io - REST API)
+        Back-End (NodeJS - NestJS - ExpressJS - MongoDB - MS Sql - ORM Sequelize - Mongoose - Socket.io - REST API)  
         DevOps (Docker - Kubernetes - Git - GitHub)
         Soft-Skills (Problem-Solving - Communication - Team-Work)
 
