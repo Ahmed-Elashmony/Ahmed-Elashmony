@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🧑🏻‍💻 Skills:
         Back-End (NodeJS - NestJS - ExpressJS - MongoDB - MS Sql - ORM Sequelize - Mongoose - Socket.io - REST API)  
         DevOps (Docker - Kubernetes - Git - GitHub)
+Core-Concept (OOP - SOILD Principles - Design Patterns)
         Soft-Skills (Problem-Solving - Communication - Team-Work)
 
 ### Connect with Me :
